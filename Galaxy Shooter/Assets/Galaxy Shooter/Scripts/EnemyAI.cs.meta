@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c231b36aa2803a749ae58747f5b5f4cc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _explosisionAnimationPrefab: {fileID: 1029437805358796, guid: 84f4fd514dc7e0c4c898792e1ba637f2,
+      type: 2}
+  - _clip: {fileID: 8300000, guid: a885c043fab7e46438bba03ba9dab6bc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
